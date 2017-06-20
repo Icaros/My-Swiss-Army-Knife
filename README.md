@@ -7,6 +7,8 @@ General-purpose-machine offers following functionalities:
   -Celcius-to-Fahrenheit's and back again<br/>
   -Feet-to-Meters and back...again!<br/>
   -Publication's weight measurement tool
+  
+  <a href="https://song-writer-bat-81408.netlify.com/">Link to wepbage</a>
 
 # Yleiskone
 
@@ -17,3 +19,5 @@ Yleiskoneen tarjoamat toiminnallisuudet ovat:
   -Celsius-asteista Fahrenheitiksi ja takaisin.<br/>
   -Jaloista metreiksi ja takaisin laskuri.<br/>
   -Julkaisulaskuri.
+
+  <a href="https://song-writer-bat-81408.netlify.com/">Linkki sivulle</a>
